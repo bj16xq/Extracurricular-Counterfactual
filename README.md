@@ -1,13 +1,13 @@
-###### Extracurricular Counterfactual Renewable Assignment
+# Extracurricular Counterfactual Renewable Assignment
 This page hosts the "Extracurricular counterfactual" Renewable Assignment. that is connected to the research project on open co-curricular practices (OCP).
 
-#### Overview
+## Overview
 
 -This Assignment has two parts: the creation/product, and the comprehension questions.
 -Implementation by the instructor follows 7 steps.
 -Students complete the assignment by following 6 steps.
 
-## Steps for the Instructor:
+### Steps for the Instructor:
 1. Show students the products/creations from previous classes and have them answer the comprehension questions
 -First, you will engage your students with the previous students’ work. They will observe the creation/product and then answer the comprehension questions which apply theory to said creation. 
 2. Decide on group vs. individual
@@ -31,7 +31,7 @@ This page hosts the "Extracurricular counterfactual" Renewable Assignment. that 
 -This part may require connecting with departmental support staff if you are not guaranteed to be teaching the course again.
 
 
-## Steps for Students:
+### Steps for Students:
 1. Examine one of the products/creations from previous classes and answer the comprehension questions
 2. Choose story and creative form.
 3. Create the product
@@ -39,7 +39,7 @@ This page hosts the "Extracurricular counterfactual" Renewable Assignment. that 
 5. Make adjustments based on feedback
 6. Submit!
 
-#### Introducing Counterfactuals and Renewable Assignments
+## Introducing Counterfactuals and Renewable Assignments
 
 What is a Counterfactual?
 Counterfactuals refer to alternative timelines or alternate histories. For example, a famous counterfactual that serves as the basis for a television show is For All Mankind, which depicts an alternative world where the Soviet Union, not the United States, won the space race in the 1960s, sparking escalation, as opposed to de-escalation, of competition between countries and complexities of the Cold War. The single event has a cascading effect on how history would unfurl in this alternative universe. Aside from being an interesting basis for fictional work, counterfactuals also serve as an intellectual tool for scholars (Wenzlhuemer, 2009). To this extent, counterfactuals can also serve as a basis for educational activities, as is the case with this assignment.
