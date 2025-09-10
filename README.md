@@ -51,8 +51,11 @@ Retrieved from: [Pinterest](https://www.pinterest.com/pin/740068151248734143/)
 
 **What is a Renewable Assignment?**
 
+Oftentimes, school assignments have little to no purpose or function other than to demonstrate a student's knowledge to their instructor at a single point in time. Hours of time may be spent by the student to complete the assignment, only to then be submitted at which point in time the instructor will spend x number of minutes marking it, but then the assignment will become nearly useless afterward. Yes, it is true that the student can refer back to the assignment for the purposes of studying for an exam, but scholars and educators alike are increasingly recognizing the need to replace this suboptimal practice, deemed the 'disposable assignment,' with the 'non-disposable' or 'renewable assignment,' which consists of assignments with much richer functionality and purpose beyond the single point of course evaluation. One research work posits the following about this situation:
 >“What if we changed these ‘disposable assignments’ into activities which actually added value to the world?
 >Then students and faculty might feel different about the time and effort they invested in them” (Wiley, 2013, para 4).
+
+For more on non-disposable/renewable assignments, see: Seraphin et al. (2019).
 
 ## The Extracurricular Counterfactual
 
@@ -101,6 +104,7 @@ To better infuse course content, and to align with other renewable assignments (
 - Vygotsky’s Zone of Proximal Development and Scaffolding
 - Bronfenbrenner’s Ecological Systems Theory and Bioecological Theory
 - Bandura's social learning theory
+- Bloom's Taxonomy of higher-order thinking
 
 ## Feedback Process
 
