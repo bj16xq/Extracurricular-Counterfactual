@@ -1,34 +1,34 @@
 # Extracurricular Counterfactual Renewable Assignment
-This page hosts the "Extracurricular counterfactual" Renewable Assignment. that is connected to the research project on open co-curricular practices (OCP).
+This page hosts the "Extracurricular counterfactual" Renewable Assignment. This assignment is connected to the research project on open co-curricular practices (OCP); for more see [Open Co-Curricular Practices OSF page](https://osf.io/63zq8/).
 
 ## Overview
 
--This Assignment has two parts: (i) the creation/product, and (ii) the comprehension questions.
--Implementation by the instructor follows 7 steps.
--Students complete the assignment by following 6 steps.
+- This Assignment has two parts: (i) the creation/product, and (ii) the comprehension questions.
+- Implementation by the instructor follows 7 steps.
+- Students complete the assignment by following 6 steps.
 
 ### Steps for the Instructor:
 1. Show students the products/creations from previous classes and have them answer the comprehension questions
--First, you will engage your students with the previous students’ work. They will observe the creation/product and then answer the comprehension questions which apply theory to said creation. 
+- First, you will engage your students with the previous students’ work. They will observe the creation/product and then answer the comprehension questions which apply theory to said creation. 
 2. Decide on group vs. individual
--Second, you must decide on whether the assignment will be completed individually or in groups. This decision is based on your specific context, and account for factors such as course learning goals, class culture, course modality, and more. The decision can be made with the class, which is why it may help for them to have engaged with previous students’ work already. 
+- Second, you must decide on whether the assignment will be completed individually or in groups. This decision is based on your specific context, and account for factors such as course learning goals, class culture, course modality, and more. The decision can be made with the class, which is why it may help for them to have engaged with previous students’ work already. 
 3. Explain assignment
--Third, you must explain the assignment. 
-  -Start by introducing the concepts of counterfactuals and non-disposable (renewable) assignments. 
-  -Then, you will introduce the creative task, which is the first half of the assignment; there are 3 options: comic strip, choose-your-own-adventure, and interview script. 
-  -Next, you will explain the comprehension questions, which are the second half of the assignment that makes the explicit connections to theory. 
-  -Then, you will explain the feedback process which can vary depending on whether they are in groups.
+- Third, you must explain the assignment. 
+  - Start by introducing the concepts of counterfactuals and non-disposable (renewable) assignments. 
+  - Then, you will introduce the creative task, which is the first half of the assignment; there are 3 options: comic strip, choose-your-own-adventure, and interview script. 
+  - Next, you will explain the comprehension questions, which are the second half of the assignment that makes the explicit connections to theory. 
+  - Then, you will explain the feedback process which can vary depending on whether they are in groups.
 4. Release assignment
--Release the assignment for students to complete
+- Release the assignment for students to complete
 5. Give Preliminary Feedback
--Peer feedback: Students will give each other feedback either individually or as a group (or if assignments are done in groups, peer feedback could be optional)
--Instructor feedback: Students will receive preliminary feedback from you to make improvements and a polished product
+- Peer feedback: Students will give each other feedback either individually or as a group (or if assignments are done in groups, peer feedback could be optional)
+- Instructor feedback: Students will receive preliminary feedback from you to make improvements and a polished product
 6. Mark Assignments
--Assign a grade, which can account for both before and after receiving the instructors feedback such that it reflects their initial effort as well as their effort in response to your feedback.
--You may also elect to mark students’ accuracy in completing the comprehension questions from previous students’ work, even if weighted less, to incentivize engagement and recall.
+- Assign a grade, which can account for both before and after receiving the instructors feedback such that it reflects their initial effort as well as their effort in response to your feedback.
+- You may also elect to mark students’ accuracy in completing the comprehension questions from previous students’ work, even if weighted less, to incentivize engagement and recall.
 7. Store the assignments for a future class
--This is what makes it a renewable assignment! 
--This part may require connecting with departmental support staff if you are not guaranteed to be teaching the course again.
+- This is what makes it a renewable assignment! 
+- This part may require connecting with departmental support staff if you are not guaranteed to be teaching the course again.
 
 
 ### Steps for Students:
@@ -43,7 +43,7 @@ This page hosts the "Extracurricular counterfactual" Renewable Assignment. that 
 
 **What is a Counterfactual?**
 
-Counterfactuals refer to alternative timelines or alternate histories. For example, a famous counterfactual that serves as the basis for a television show is For All Mankind, which depicts an alternative world where the Soviet Union, not the United States, won the space race in the 1960s, sparking escalation, as opposed to de-escalation, of competition between countries and complexities of the Cold War. The single event has a cascading effect on how history would unfurl in this alternative universe. Aside from being an interesting basis for fictional work, counterfactuals also serve as an intellectual tool for scholars (Wenzlhuemer, 2009). To this extent, counterfactuals can also serve as a basis for educational activities, as is the case with this assignment.
+Counterfactuals refer to alternative timelines or alternate histories. For example, a famous counterfactual that serves as the basis for a television show is For All Mankind, which depicts an alternative world where the Soviet Union, not the United States, won the space race in the 1960s, sparking escalation, as opposed to de-escalation, of competition between countries and complexities of the Cold War. The single event has a cascading effect on how history would unfurl in this alternative universe. Aside from being an interesting basis for fictional work, counterfactuals also serve as an intellectual tool for scholars, similar to a thought experiment, insofar as they examine the phenomenon of interest from purely a hypothetical/speculative standpoint (Wenzlhuemer, 2009). To this extent, counterfactuals can also serve as a basis for educational activities, as is the case with this assignment.
 
 ![society-if-autocorrect](https://github.com/bj16xq/Extracurricular-Counterfactual-Assignment/blob/main/meme_society-if-autocorrect-worked.jpeg)
 
@@ -90,9 +90,9 @@ _**Long version**_
 To better infuse course content, and to align with other renewable assignments (e.g., where students create their own quiz questions), the students will make a couple of comprehension questions that evaluate the connection between their creation and theories of learning/development. The questions can be in the form of multiple choice, true/false, short or long answer (or combination thereof).
 
 **Examples of theories to connect:**
--Vygotsky’s Zone of Proximal Development and Scaffolding
--Bronfenbrenner’s Ecological Systems Theory and Bioecological Theory
--Bandura's social learning theory
+- Vygotsky’s Zone of Proximal Development and Scaffolding
+- Bronfenbrenner’s Ecological Systems Theory and Bioecological Theory
+- Bandura's social learning theory
 
 ## Feedback Process
 
