@@ -8,14 +8,14 @@ This page hosts the "Extracurricular counterfactual" Renewable Assignment. This 
 - Students complete the assignment by following 6 steps.
 
 ### Steps for the Instructor:
-1. Show students the products/creations from previous classes and have them answer the comprehension questions
-- First, you will engage your students with the previous students’ work. They will observe the creation/product and then answer the comprehension questions which apply theory to said creation. 
+1. Engage current students with previous students' work (that are renewed/non-disposed)
+- First, you will show your students with the previous students’ work. They will observe the creation/product and then answer the comprehension questions which apply theory to said creation. 
 2. Decide on group vs. individual
 - Second, you must decide on whether the assignment will be completed individually or in groups. This decision is based on your specific context, and account for factors such as course learning goals, class culture, course modality, and more. The decision can be made with the class, which is why it may help for them to have engaged with previous students’ work already. 
 3. Explain assignment
 - Third, you must explain the assignment. 
-  - Start by introducing the concepts of counterfactuals and non-disposable (renewable) assignments. 
-  - Then, you will introduce the creative task, which is the first half of the assignment; there are 3 options: comic strip, choose-your-own-adventure, and interview script. 
+  - Start by introducing the concepts of counterfactuals and non-disposable (renewable) assignments (see below). 
+  - Then, you will introduce the creative task, which is the first half of the assignment; there are 3 options: comic strip, choose-your-own-adventure, and interview script (more details below). 
   - Next, you will explain the comprehension questions, which are the second half of the assignment that makes the explicit connections to theory. 
   - Then, you will explain the feedback process which can vary depending on whether they are in groups.
 4. Release assignment
@@ -63,13 +63,16 @@ The counterfactual can be found at the following link: [Click here](https://gith
 **Three Options:**
 1. Choose Your Own Adventure
 2. Time-split Comic Strip
-3. Group Interview with The Same Person From Two Timelines
+3. Podcast Interview with The Same Person From Two Timelines
 
 **1. Create A Choose Your Own Adventure:**
+1. Plan out the short story multi-part plot which includes one timeline before the time disruption and multiple timelines afterward from which the reader will be able to choose.
+2. Write out the short story (using imagery and character development to the extent your students are comfortable)
+3. Separate the choosable segments of the adventure with clear headings
 
 **2. Create A Comic Strip:**
 1. Plan out each boxes in point form at first
-2. When you know the number of boxes before and after the timeline split, then draw them with a ruler
+2. When you know the number of boxes before and after the timeline split, then draw the whole set of boxed with a ruler
 3. Always start with pencil first, and use marker/pen/pencil crayon later.
 4. Pen is best for speech bubbles and the text within unless you want to dramatize certain words with bold, coloured letters (like WOW!)
 
@@ -84,6 +87,11 @@ _**Long version**_
 ![Comic-long](https://github.com/bj16xq/Extracurricular-Counterfactual-Assignment/blob/main/Comic-panel-long-version.png)
 
 **Note:** Expectations for length can depend on the artistic ability of your students as well as how major the assignment is.
+
+**3. Podcast Interview Script**
+1. Write out the details of a character in two parallel timelines: one from the counterfactual and one from our reality
+2. Write out a script for a podcaster interviewing both characters at the same time who have been able to come onto the podcast due to inter-dimensional travel; the podcaster is interested in finding out the differences and similarities between that character in both timelines
+3. *Optional: if interested, record a recitation of the podcast interview script to create an audiofile
 
 ## Assignment Part 2: Comprehension Questions
 
